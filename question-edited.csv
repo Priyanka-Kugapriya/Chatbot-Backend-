@@ -1,0 +1,40 @@
+QuestionID,Question,Answer,Document
+Q1,Are you not in control of the success or failure you make in life?, I strongly agree ,stress
+Q2,Do you have someone at work or outside who you can confide in?, I have no-one I can confide in ,stress
+Q3,Is there a disagreement about work?, Rarely , notstress
+Q4,What do you do when a project you are working on fails?,I learn from the experience and move on to the next job,notstress
+Q5,Are your outside relationships suffering?,Rarely,notstress
+Q6,Are you finding it increasingly difficult to concentrate on the job?,Agree,stress
+Q7,Do you always get a good night's sleep without worrying about work?,Agree,notstress
+Q8,Have you found it more difficult to control your emotions?,Agree,stress
+Q9,Do you feel tired during the day?,Agree,stress
+Q10,Do you have a hard time feeling relaxed?,No,stress
+Q11,Rate the level of your job stress?,high,stress
+Q12,Most stressful aspect of your job?,none,notstress
+Q13,Do you have lack of control over the work assigned to you?,yes,stress
+Q14,Do you feel you have a healthy work-life balance?,no,stress
+Q15,Is your job stress caused by your relationship with another employee?,no,mildlystress
+Q16,Considering your overall experience how likely are you to recommend your workplace to your family or friends?,never,stress
+Q17,Are you expected to work long hours to achieve my targets?,yes,stress
+Q18,Do you love working?,yes,notstress
+Q19,Do you have time to finish your assignments? ,no,stress
+Q20,Do you have the possibility to influence decisions at work?,yes,notstress
+Q21,Does you supervisor consider your views?,yes,notstress
+Q22,Can you decide on your work pace?,no,stress
+Q23,Has your workload increased?,no,notstress
+Q24,Are the goals for your workplace clear?,yes,notstress
+Q25,Do you know which assignments your work tasks include?,yes,notstress
+Q26,Do you do anything to overcome stress at your workplace?,no,stress
+Q27,Are there any conflicts at work?,yes,stress
+Q28,Are you involved in any conflicts with your higher officials at your workplace? ,yes,stress
+Q29,Have your supervisor done anything to solve the conflicts?,yes,notstress
+Q30,Do you put high demands on yourself at work? ,yes,stress
+Q31,Do you often get engaged in your work?,yes,notstress
+Q32,Do you think about work after your working-day?,yes,stress
+Q33,Do you find it hard to set a limit to work assignment although you have a lot to do?,yes,stress
+Q34,Do you take more responsibility at work than you ought to? ,yes,stress
+Q35,Do you work after ordinary working hours to finish your assignments?,yes,stress
+Q36,Do you find it hard to sleep because your mind is occupied with work?,yes,stress
+Q37,"Due to work, do you find it hard to find time to be with your nearest?",no,notstress
+Q38,Do you feel stressed to work in a project?,no,notstress
+Q39,Do you feel valuable at your workplace?,yes,stress
